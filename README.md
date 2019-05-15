@@ -3,7 +3,7 @@
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt-get update
 sudo apt-get install python3.6
-sudo apt-get install python3-dev
+sudo apt-get install python3.6-dev
 ```
 https://docs.python.org/3/tutorial/venv.html
 https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
