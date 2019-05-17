@@ -27,3 +27,18 @@ deactivate
 $ sudo apt-get install python-virtualenv
 $ virtualenv --python=python3.6 myvenv
 ```
+# for pyhton3.6
+sudo apt-get install python3.6-venv
+```
+# Creating Virtual Environments
+```
+ python3.6 -m venv kms
+```
+# Active Virtual Environments
+```
+source kms/bin/activate
+```
+# Deactive Virtual Environments
+```
+deactivate
+```
